@@ -121,6 +121,11 @@ c. Link da Prototipação
 agens, utilizado para interpretar php. 
 - **SQL:** Programação do banco de dados.
 - **Bootstrap (v. 5.2.3):** Desenvolvimento da interface.
+- **jQuery:** Facilitação de manipulação de DOM, eventos e AJAX.
+- **Ajax:** Realização de requisições assíncronas para atualização de dados em tempo real.
+- **.ENV:** Gestão de variáveis de ambiente.
+- **PHPMailer:** Envio de emails.
+- **draw.io:** Criação de diagramas e fluxogramas.
 
 **b. Resultados esperados**
 
