@@ -137,3 +137,11 @@ c. Link da Prototipação
 ## 5. OportunIF TCC - IFPR pinhais
 
 https://github.com/NiccoCoder/oportunIF_IFPR
+
+## 6. Modo de uso
+
+**Windows**
+
+  1. Baixe o projeto no git hub via zip.
+  2. Baixe o docker.
+  3. 
